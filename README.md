@@ -2,7 +2,7 @@
 
 A collection of interactive web applications built with vanilla JavaScript, HTML, and CSS. This repository contains three fun and practical projects that demonstrate fundamental web development concepts without using any frameworks or libraries.
 
-## 🎮 Projects
+## Projects
 
 ### 1. [Tic Tac Toe](./tictactoe)
 A classic two-player Tic Tac Toe game with win detection and game reset functionality.
@@ -43,7 +43,7 @@ An interactive Rock Paper Scissors game where you can challenge the computer.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Each project is self-contained and can be run independently. To run any project:
 
@@ -53,14 +53,14 @@ Each project is self-contained and can be run independently. To run any project:
 
 No installation, dependencies, or build process required - just pure vanilla JavaScript!
 
-## 💻 Technologies Used
+## Technologies Used
 
 All projects are built using:
 - **HTML5** - Structure and content
 - **CSS3** - Styling and layout
 - **Vanilla JavaScript** - Interactivity and logic
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Vanilla_Frontend_Projects/
@@ -82,7 +82,7 @@ Vanilla_Frontend_Projects/
 └── README.md
 ```
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 These projects demonstrate:
 - DOM manipulation
@@ -92,14 +92,3 @@ These projects demonstrate:
 - User interface design
 - Vanilla JavaScript best practices
 
-## 📝 License
-
-Feel free to use these projects for learning and personal projects!
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
----
-
-**Happy Coding! 🚀**
